@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "tipo": "receita",
+    "data": "2026-02-26",
+    "categoria_id": 3,
+    "cliente": "Guerlinguer",
+    "valor": 1600000.0,
+    "status": "pago",
+    "data_criacao": "2026-02-23T17:09:52.635339",
+    "origem": "rapido"
+  },
+  {
+    "id": 2,
+    "tipo": "receita",
+    "data": "2026-03-01",
+    "categoria_id": 1,
+    "cliente": "Edição direta",
+    "valor": 379391.0,
+    "status": "pago",
+    "data_criacao": "2026-03-10T15:49:11.592911",
+    "origem": "tabela"
+  },
+  {
+    "id": 3,
+    "tipo": "receita",
+    "data": "2026-03-05",
+    "categoria_id": 2,
+    "cliente": "Edição direta",
+    "valor": 154965.0,
+    "status": "pago",
+    "data_criacao": "2026-03-10T15:49:11.592911",
+    "origem": "tabela"
+  },
+  {
+    "id": 4,
+    "tipo": "despesa",
+    "data": "2026-03-10",
+    "categoria_id": 101,
+    "cliente": "Edição direta",
+    "valor": 250000.0,
+    "status": "pago",
+    "data_criacao": "2026-03-10T15:49:11.592911",
+    "origem": "tabela"
+  }
+]

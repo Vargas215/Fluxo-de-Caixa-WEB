@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nome": "Retail",
+    "tipo": "receita",
+    "cor": "#2ecc71",
+    "ativa": true
+  },
+  {
+    "id": 2,
+    "nome": "Grandes Contas",
+    "tipo": "receita",
+    "cor": "#27ae60",
+    "ativa": true
+  },
+  {
+    "id": 3,
+    "nome": "Maquinas KFB",
+    "tipo": "receita",
+    "cor": "#229954",
+    "ativa": true
+  },
+  {
+    "id": 4,
+    "nome": "Máquinas Log Max",
+    "tipo": "receita",
+    "cor": "#1e8449",
+    "ativa": true
+  },
+  {
+    "id": 5,
+    "nome": "Empréstimo Entrada",
+    "tipo": "receita",
+    "cor": "#145a32",
+    "ativa": true
+  },
+  {
+    "id": 101,
+    "nome": "Fornecedores Nacionais",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 102,
+    "nome": "Fornecedores Importação",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 103,
+    "nome": "Fornecedores Intercompany",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 104,
+    "nome": "KDB",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 105,
+    "nome": "KBI",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 106,
+    "nome": "KFAB",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 107,
+    "nome": "Log Max",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 108,
+    "nome": "Quadco",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 109,
+    "nome": "TimberPro",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 110,
+    "nome": "Braccke",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 111,
+    "nome": "Southstar",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 112,
+    "nome": "Komatsu America",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 113,
+    "nome": "Outros Intercompany",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 114,
+    "nome": "Impostos Faturamento",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 115,
+    "nome": "Impostos sobre Importação Komatsu",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 116,
+    "nome": "Impostos sobre Importação Log Max",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 117,
+    "nome": "Outros impostos e taxas",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 118,
+    "nome": "RH",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 119,
+    "nome": "Despesas Financeiras",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 120,
+    "nome": "Hedge Cambial",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 121,
+    "nome": "Despesas Bancárias",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  },
+  {
+    "id": 122,
+    "nome": "JCP/Dividendos - KFAB",
+    "tipo": "despesa",
+    "cor": "#c0392b",
+    "ativa": true
+  },
+  {
+    "id": 123,
+    "nome": "JCP/Dividendos - KBI",
+    "tipo": "despesa",
+    "cor": "#922b21",
+    "ativa": true
+  },
+  {
+    "id": 124,
+    "nome": "Empréstimo Saída",
+    "tipo": "despesa",
+    "cor": "#641e16",
+    "ativa": true
+  },
+  {
+    "id": 125,
+    "nome": "Juros",
+    "tipo": "despesa",
+    "cor": "#e74c3c",
+    "ativa": true
+  }
+]

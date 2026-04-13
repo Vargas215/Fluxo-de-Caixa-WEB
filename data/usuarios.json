@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nome": "Administrador",
+    "username": "admin",
+    "senha": "admin123",
+    "role": "admin",
+    "permissao": {
+      "dashboard": true,
+      "fluxo_caixa": true,
+      "lancamentos": true,
+      "relatorios": true,
+      "configuracoes": true,
+      "nova_receita": true,
+      "nova_despesa": true,
+      "todas_categorias": true
+    },
+    "ativo": true,
+    "data_criacao": "2026-01-28T09:40:54.718006"
+  },
+  {
+    "id": 2,
+    "nome": "Financeiro",
+    "username": "financeiro",
+    "senha": "fin123",
+    "role": "financeiro",
+    "permissao": {
+      "dashboard": true,
+      "fluxo_caixa": true,
+      "lancamentos": true,
+      "relatorios": true,
+      "configuracoes": true,
+      "nova_receita": true,
+      "nova_despesa": true,
+      "todas_categorias": true
+    },
+    "ativo": true,
+    "data_criacao": "2026-01-28T09:40:54.718021"
+  },
+  {
+    "id": 3,
+    "nome": "Fiscal",
+    "username": "fiscal",
+    "senha": "fis123",
+    "role": "fiscal",
+    "permissao": {
+      "dashboard": true,
+      "fluxo_caixa": false,
+      "lancamentos": true,
+      "relatorios": false,
+      "configuracoes": false,
+      "nova_receita": false,
+      "nova_despesa": true,
+      "todas_categorias": false,
+      "categorias_permitidas": [
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    "ativo": true,
+    "data_criacao": "2026-01-28T09:40:54.718025"
+  }
+]
